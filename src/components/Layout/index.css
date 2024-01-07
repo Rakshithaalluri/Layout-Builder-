@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.layout-container {
+  display: flex;
+  flex-direction: column;
+
+  margin: 15px;
+}
+
+.body-header-footer-container {
+  margin: 20px;
+}

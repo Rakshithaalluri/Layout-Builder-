@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.conf-con-bg {
+  display: flex;
+  flex-direction: column;
+  background-color: #475569;
+}
+
+.layout-bg-container {
+  margin-left: 100px;
+  padding: 10px;
+}
+
+.layout-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.box-labels-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.check-box {
+  height: 12px;
+  width: 12px;
+}
+.box {
+  display: flex;
+  align-items: center;
+  margin: 3px;
+  margin-left: 0px;
+}
+
+.content-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding: 0px;
+  font-weight: 400;
+  padding-left: 10px;
+}
